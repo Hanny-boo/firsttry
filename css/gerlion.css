@@ -1,0 +1,68 @@
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header {
+	background-color:#330033;
+	text-align: center;
+	padding: 50px;
+}
+h1, h2{
+	font-family: 'Protest Revolution', sans-serif;
+}
+
+header h1{
+	color: whitesmoke;
+	font-size: 50px;
+	font-family: 'Protest Revolution', sans-serif; 
+}
+
+header img{
+	border-radius: 80px;
+	width: 150px;
+	border: 5px solid #000000;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 70px 20px;
+
+}
+
+main img{
+	max-width: 90%;
+}
+
+h2{
+	font-size: 35px;
+	color: #330033;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: darkviolet;
+}
+
+a:hover{
+	color: hotpink;
+}
+footer{
+	background-color: #330033;
+	text-align: center;
+	color: whitesmoke;
+	padding: 25px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: dimgray;
+	font-style: italic;
+	margin-top: 0;
+}
